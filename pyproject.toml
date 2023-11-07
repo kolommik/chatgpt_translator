@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "chatgpt-translate"
+version = "0.1.0"
+description = ""
+authors = ["kolommik <mikhail.kolomasov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.0"
+openai = ">=0.27.8,<0.28.0"
+langchain = "^0.0.313"
+tiktoken = "^0.5.1"
+doctran = "^0.0.14"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+mypy = "^1.6.0"
+pylint = "^3.0.1"
+flake8 = "^6.1.0"
+ipykernel = "^6.25.2"
+ipywidgets = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
