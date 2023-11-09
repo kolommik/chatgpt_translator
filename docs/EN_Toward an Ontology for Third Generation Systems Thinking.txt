@@ -8,7 +8,7 @@ multilevel, nested, interacting systems, their environment, and the
 boundaries between the systems and the environment. In this paper we
 discuss the evolution of systems thinking and discuss what is needed for
 an ontology of the current generation of systems thinking.
-1. Introduction
+# 1. Introduction
 SYSTEMS THINKING is a way of making sense of the complexity of the world
 [1]. Rather than only looking at individual parts, systems thinking takes a more
 holistic approach in which the world is viewed in terms of multilevel, nested,
@@ -35,7 +35,7 @@ objects and abstract objects. Section 8 speculates on how the evolution of2
 systems can be explained using thermodynamic principles. The paper
 concludes by summarizing the most important requirements of an ontology for
 third generation systems thinking.
-2. Systems Ontology and Epistemology
+# 2. Systems Ontology and Epistemology
 An ontology is a way to express what a subject area represents by defining
 a set of concepts and categories as well as how the concepts and categories are
 related to each other. An ontology should indicate the objects that would be good
@@ -91,7 +91,7 @@ performed a merge of partial systems ontologies), which after merging, represent
 together an ontology of the third generation of systems thinking. As usual, each
 generation of systems thinking incorporates all the previous generation’s
 achievements but adds something new.
-3. The first-generation approach
+# 3. The first-generation approach
 The first generation of systems thinking emerged in the 1940s, mainly as a
 result of the work of von Bertalanffy [5]. The notion of a system as a subject
 separated from its environment appeared in physics long ago. However, the
@@ -141,7 +141,7 @@ between whole objects, parts, parts of parts and boundaries between parts. The
 study of such relations is called mereotopology. Attempts to develop a
 mereotopology of mental/abstract/mathematical objects that comprise views
 mostly failed.
-4. The second-generation approach
+# 4. The second-generation approach
 The second generation of the systems approach relied mainly on the ideas
 of systems engineering: physical (including cyber-physical, including cyberphysical with people) systems-of-interest are created by people with tools, not
 reproduced themselves in a cycle, and usually non-living. The notion of the life
@@ -194,7 +194,7 @@ shared conceptualizations was no longer seen as an advance in AI creation, and
 not even the rebranding of formal ontologies as knowledge graphs helped [19].
 The semantic web was expected as an internet mainstream Web 3.0, but this idea
 was never realized. Semantic technologies remain niche.
-5. Continuous development
+# 5. Continuous development
 The “waterfall model” [20] was the limited idea of a single unidirectional
 passage of the life cycle as a set of works carried out by constructors following life
 cycle practices. System-of-interest was considered as passively undergoing this
@@ -268,7 +268,7 @@ design phenome
 in design, i.e., phenome from memome implementation
 3. Continuous changing of memome time (techno-evolution,
 continuous everything)
-6. Scaleless descriptions of physical systems
+# 6. Scaleless descriptions of physical systems
 In the discussion of evolution in biology, the systems approach
 manifested itself in reality in major evolutionary transitions: increasing
 complexity in systems from large molecules to cells, from cells to multicellular
@@ -334,7 +334,7 @@ living being. Sufficiently advanced constructors can replicate themselves, among
 other things, to be the subject of evolution. Scaleless physical theories are based
 on notions of information-related changes as computations have proven to be
 very productive.
-7. Constructivism
+# 7. Constructivism
 The next thing to be considered in the physics-based system ontology is
 the ontology of physics and mathematics itself as a foundation ontology. Such an
 ontology has been proposed in many works, but let us highlight the work of
@@ -432,7 +432,7 @@ formulas in informatics theory that it appears in formulas of thermodynamics
 between them to formulate a third-generation systems ontology. Then we get the
 physical explanation of evolution with imminent major evolutionary transitions
 leading to multiple system levels in persistent objects.13
-8. Thermodynamics of system evolution
+# 8. Thermodynamics of system evolution
 Vanchurin, Wolf, Koonin, and Katsnelson observed that analogy
 reasoning with classical thermodynamics and information theory, quantities in
 thermodynamics, machine learning, and evolutionary biology lead to a
@@ -475,7 +475,7 @@ discuss the research program on unifying mathematical languages used in
 different studies of the same domain of thermodynamic-based systems ontology.
 The same can be said about reformulating the differential form into a quantumlike form to increase the speed and accuracy of the physical modeling of
 biological evolution and techno-evolution [51].
-9. Conclusion
+# 9. Conclusion
 An ontology for state-of-the-art third generation systems thinking should:
 • provide types of objects for layered directing of attention to
 ensure the evolution of systems-of-interest (continuous
